@@ -1,0 +1,2 @@
+recursive-include yaml_editor/static *
+recursive-include yaml_editor/templates *
